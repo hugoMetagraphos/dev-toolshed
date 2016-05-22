@@ -49,6 +49,7 @@
 - [Static Map Maker](http://staticmapmaker.com/)
 
 ## Regular Expressions
+- [RegExr](http://regexr.com/ "Learn, Build, & Test RegEx")
 - [Regular Expressions 101](https://regex101.com/ "Online regex tester and debugger")
 
 ## Stock Photos
