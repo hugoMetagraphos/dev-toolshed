@@ -44,6 +44,9 @@
 - [Google Maps APIs](https://developers.google.com/maps/)
 - [Static Map Maker](http://staticmapmaker.com/)
 
+## Regular Expressions
+- [Regular Expressions 101](https://regex101.com/)
+
 ## Stock Photos
 - [Pexels](https://www.pexels.com/)
 - [Pixabay](https://pixabay.com/)
