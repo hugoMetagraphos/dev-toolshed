@@ -24,6 +24,7 @@
 ## Icons
 - [Font Awesome Icons](http://fontawesome.io/icons/)
 - [GlyphSearch](http://glyphsearch.com/ "Search for icons from Font Awesome, Foundation, Glyphicons, IcoMoon, Ionicons, Material Design, and Octicons")
+- [Ionicons](http://ionicons.com/)
 
 ## JSON
 - [JSONLint](http://jsonlint.com/ "The JSON Validator")
