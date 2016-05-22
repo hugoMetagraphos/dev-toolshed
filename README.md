@@ -25,6 +25,10 @@
 - [JSONLint](http://jsonlint.com/ "The JSON Validator")
 - [JSON Formatter & Validator](http://jsonformatter.curiousconcept.com/)
 
+## Maps
+- [Google Maps APIs](https://developers.google.com/maps/)
+- [Static Map Maker](http://staticmapmaker.com/)
+
 ## Stock Photos
 - [Pexels](https://www.pexels.com/)
 - [Pixabay](https://pixabay.com/)
