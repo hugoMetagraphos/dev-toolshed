@@ -28,6 +28,9 @@
 - [Just Good Copy](http://www.goodemailcopy.com/)
 - [The Magic Email](http://themagicemail.com/)
 
+### HTML Email
+- [ZURB Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)
+
 ## Forms
 - [Formspree](https://formspree.io/)
 - [FormKeep](https://formkeep.com/)
