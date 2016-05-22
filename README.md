@@ -21,6 +21,10 @@
 - [Dummy/Fake Credit Card Generator](http://saijogeorge.com/dummy-credit-card-generator/)
 - [Get Credit Card Numbers](http://www.getcreditcardnumbers.com/)
 
+## Icons
+- [Font Awesome Icons](http://fontawesome.io/icons/)
+- [GlyphSearch](http://glyphsearch.com/ "Search for icons from Font Awesome, Foundation, Glyphicons, IcoMoon, Ionicons, Material Design, and Octicons")
+
 ## JSON
 - [JSONLint](http://jsonlint.com/ "The JSON Validator")
 - [JSON Formatter & Validator](http://jsonformatter.curiousconcept.com/)
