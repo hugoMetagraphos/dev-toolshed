@@ -4,6 +4,15 @@
 - [App Annie](https://www.appannie.com/)
 - [Google Analytics](https://www.google.com/analytics/)
 
+
+## CSS
+- [CSS Guidelines](http://cssguidelin.es/ "High-level advice and guidelines for writing sane, manageable, scalable CSS")
+- Animations
+	- [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/)
+	- [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
+- Flexbox
+  - [Flexbox Froggy](http://flexboxfroggy.com/ "A game for learning CSS flexbox")
+
 ## Date/Time
 - [Moment.js](http://momentjs.com/ "Parse, validate, manipulate, and display dates in JavaScript")
 
