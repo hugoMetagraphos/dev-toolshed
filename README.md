@@ -1,5 +1,10 @@
 # Dev Tool Shed
 
+## E-Commerce
+- [E-Commerce Design Inspiration](https://ecomm.design/)
+- [Dummy/Fake Credit Card Generator](http://saijogeorge.com/dummy-credit-card-generator/)
+- [Get Credit Card Numbers](http://www.getcreditcardnumbers.com/)
+
 ## Typography
 - [Google Fonts](https://www.google.com/fonts)
 - [Google Font Explorer](http://katydecorah.com/google-font-explorer/)
