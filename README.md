@@ -9,7 +9,7 @@
 - [Get Credit Card Numbers](http://www.getcreditcardnumbers.com/)
 
 ## JSON
-- [JSONLint "The JSON Validator"](http://jsonlint.com/)
+- [JSONLint](http://jsonlint.com/ "The JSON Validator")
 - [JSON Formatter & Validator](http://jsonformatter.curiousconcept.com/)
 
 ## Typography
