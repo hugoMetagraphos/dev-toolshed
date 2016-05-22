@@ -16,6 +16,10 @@
 - [JSONLint](http://jsonlint.com/ "The JSON Validator")
 - [JSON Formatter & Validator](http://jsonformatter.curiousconcept.com/)
 
+## Stock Photos
+- [Pexels](https://www.pexels.com/)
+- [Pixabay](https://pixabay.com/)
+
 ## Typography
 - [Google Fonts](https://www.google.com/fonts)
 - [Google Font Explorer](http://katydecorah.com/google-font-explorer/)
