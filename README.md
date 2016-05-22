@@ -8,6 +8,10 @@
 - [Dummy/Fake Credit Card Generator](http://saijogeorge.com/dummy-credit-card-generator/)
 - [Get Credit Card Numbers](http://www.getcreditcardnumbers.com/)
 
+## JSON
+- [JSONLint "The JSON Validator"](http://jsonlint.com/)
+- [JSON Formatter & Validator](http://jsonformatter.curiousconcept.com/)
+
 ## Typography
 - [Google Fonts](https://www.google.com/fonts)
 - [Google Font Explorer](http://katydecorah.com/google-font-explorer/)
