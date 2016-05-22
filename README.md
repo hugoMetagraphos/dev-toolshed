@@ -24,6 +24,10 @@
 - [Dummy/Fake Credit Card Generator](http://saijogeorge.com/dummy-credit-card-generator/)
 - [Get Credit Card Numbers](http://www.getcreditcardnumbers.com/)
 
+## Email
+- [Just Good Copy](Regular Expressions 101)
+- [The Magic Email](http://themagicemail.com/)
+
 ## Forms
 - [Formspree](https://formspree.io/)
 - [FormKeep](https://formkeep.com/)
