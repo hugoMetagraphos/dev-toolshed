@@ -25,7 +25,7 @@
 - [Get Credit Card Numbers](http://www.getcreditcardnumbers.com/)
 
 ## Email
-- [Just Good Copy](Regular Expressions 101)
+- [Just Good Copy](http://www.goodemailcopy.com/)
 - [The Magic Email](http://themagicemail.com/)
 
 ## Forms
