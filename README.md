@@ -21,6 +21,12 @@
 - [Dummy/Fake Credit Card Generator](http://saijogeorge.com/dummy-credit-card-generator/)
 - [Get Credit Card Numbers](http://www.getcreditcardnumbers.com/)
 
+## Forms
+- [Formspree](https://formspree.io/)
+- [FormKeep](https://formkeep.com/)
+- [Simple Form](https://getsimpleform.com/)
+- [Wufoo](http://www.wufoo.com/)
+
 ## Icons
 - [Font Awesome Icons](http://fontawesome.io/icons/)
 - [GlyphSearch](http://glyphsearch.com/ "Search for icons from Font Awesome, Foundation, Glyphicons, IcoMoon, Ionicons, Material Design, and Octicons")
