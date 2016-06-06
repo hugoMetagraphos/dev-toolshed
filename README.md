@@ -69,6 +69,9 @@
 - [Google Font Explorer](http://katydecorah.com/google-font-explorer/)
 - [Font CDN](http://fontcdn.org/ "FontCDN: A search tool for Google web fonts")
 
+## Video
+- [Plyr](https://plyr.io/ "A simple, accessible HTML5 media player")
+
 ## Web Hosting
 
 ### [GitHub Pages](https://pages.github.com/)
