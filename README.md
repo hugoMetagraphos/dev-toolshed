@@ -45,6 +45,13 @@
 - [Simple Form](https://getsimpleform.com/)
 - [Wufoo](http://www.wufoo.com/)
 
+## GitHub
+- [GitPrint](https://gitprint.com/)
+
+### [GitHub Pages](https://pages.github.com/)
+- [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
+- [About supported custom domains](https://help.github.com/articles/about-supported-custom-domains/)
+
 ## Icons
 - [Font Awesome Icons](http://fontawesome.io/icons/)
 - [GlyphSearch](http://glyphsearch.com/ "Search for icons from Font Awesome, Foundation, Glyphicons, IcoMoon, Ionicons, Material Design, and Octicons")
@@ -74,9 +81,3 @@
 
 ## Video
 - [Plyr](https://plyr.io/ "A simple, accessible HTML5 media player")
-
-## Web Hosting
-
-### [GitHub Pages](https://pages.github.com/)
-- [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
-- [About supported custom domains](https://help.github.com/articles/about-supported-custom-domains/)
