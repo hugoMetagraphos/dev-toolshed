@@ -4,6 +4,9 @@
 - [App Annie](https://www.appannie.com/)
 - [Google Analytics](https://www.google.com/analytics/)
 
+## Apps
+- [The App Launch Guide](http://www.applaunchguide.com/ "The Free and Open Source Guide to Launching Your App")
+
 ## Charts
 - [Chartspree](http://chartspree.io/)
 
