@@ -39,18 +39,8 @@
 ### HTML Email
 - [ZURB Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)
 
-## Forms
-- [Formspree](https://formspree.io/)
-- [FormKeep](https://formkeep.com/)
-- [Simple Form](https://getsimpleform.com/)
-- [Wufoo](http://www.wufoo.com/)
-
 ## GitHub
 - [GitPrint](https://gitprint.com/)
-
-### [GitHub Pages](https://pages.github.com/)
-- [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
-- [About supported custom domains](https://help.github.com/articles/about-supported-custom-domains/)
 
 ## Icons
 - [Font Awesome Icons](http://fontawesome.io/icons/)
@@ -69,6 +59,22 @@
 ## Regular Expressions
 - [RegExr](http://regexr.com/ "Learn, Build, & Test RegEx")
 - [Regular Expressions 101](https://regex101.com/ "Online regex tester and debugger")
+
+## Static Sites
+
+### Forms
+- [Formspree](https://formspree.io/)
+- [FormKeep](https://formkeep.com/)
+- [Simple Form](https://getsimpleform.com/)
+- [Wufoo](http://www.wufoo.com/)
+
+### Hosting
+- [GitLab Pages](https://pages.gitlab.io/)
+- [Surge](https://surge.sh/)
+
+#### [GitHub Pages](https://pages.github.com/)
+- [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
+- [About supported custom domains](https://help.github.com/articles/about-supported-custom-domains/)
 
 ## Stock Photos
 - [Pexels](https://www.pexels.com/)
