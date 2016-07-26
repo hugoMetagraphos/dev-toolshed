@@ -16,6 +16,7 @@
 
 ### Animations
 - [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/)
+- [Clippy](http://bennettfeely.com/clippy/ "CSS clip-path maker")
 - [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
 
 ### Flexbox
