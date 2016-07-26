@@ -11,12 +11,12 @@
 - [Chartspree](http://chartspree.io/)
 
 ## CSS
+- [Clippy](http://bennettfeely.com/clippy/ "CSS clip-path maker")
 - [CSS Guidelines](http://cssguidelin.es/ "High-level advice and guidelines for writing sane, manageable, scalable CSS")
 - [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
 
 ### Animations
 - [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/)
-- [Clippy](http://bennettfeely.com/clippy/ "CSS clip-path maker")
 - [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
 
 ### Flexbox
