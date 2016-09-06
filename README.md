@@ -40,7 +40,7 @@
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron)
 
 ### Boilerplates
-- [menubar](https://github.com/maxogden/menubar) - Boilerplate to create a menubar desktop application.
+- [menubar](https://github.com/maxogden/menubar) - Boilerplate to create menubar desktop applications.
 
 ## Email
 - [Just Good Copy](http://www.goodemailcopy.com/)
