@@ -68,6 +68,8 @@
 
 ## React
 - [react-howto](https://github.com/petehunt/react-howto "Your guide to the (sometimes overwhelming!) React ecosystem.")
+- [Find your perfect React starter project](http://andrewhfarmer.com/starter-project/)
+- [create-react-app](https://github.com/facebookincubator/create-react-app "Create React apps with no build configuration.")
 
 ## Regular Expressions
 - [RegExr](http://regexr.com/ "Learn, Build, & Test RegEx")
