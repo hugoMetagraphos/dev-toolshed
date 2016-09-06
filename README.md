@@ -36,6 +36,9 @@
 - [Dummy/Fake Credit Card Generator](http://saijogeorge.com/dummy-credit-card-generator/)
 - [Get Credit Card Numbers](http://www.getcreditcardnumbers.com/)
 
+## Electron
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron)
+
 ## Email
 - [Just Good Copy](http://www.goodemailcopy.com/)
 - [The Magic Email](http://themagicemail.com/)
