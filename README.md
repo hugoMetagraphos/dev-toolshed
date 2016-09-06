@@ -82,6 +82,7 @@
 
 ## Self Hosted
 - [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted)
+- [Self-Hosted Subreddit](https://www.reddit.com/r/selfhosted)
 
 ## Stock Photos
 - [Pexels](https://www.pexels.com/)
