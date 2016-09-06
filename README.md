@@ -60,6 +60,9 @@
 - [Google Maps APIs](https://developers.google.com/maps/)
 - [Static Map Maker](http://staticmapmaker.com/)
 
+## React
+- [react-howto](https://github.com/petehunt/react-howto "Your guide to the (sometimes overwhelming!) React ecosystem.")
+
 ## Regular Expressions
 - [RegExr](http://regexr.com/ "Learn, Build, & Test RegEx")
 - [Regular Expressions 101](https://regex101.com/ "Online regex tester and debugger")
