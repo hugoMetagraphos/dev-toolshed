@@ -49,6 +49,7 @@
 
 ## Date/Time
 - [Moment.js](http://momentjs.com/ "Parse, validate, manipulate, and display dates in JavaScript")
+- [PickMeUp](https://github.com/nazar-pc/PickMeUp "Really simple, powerful, customizable and lightweight standalone datepicker")
 
 ## DNS
 - [ViewDNS.info](http://viewdns.info/)
