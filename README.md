@@ -6,6 +6,7 @@
 - [Charts](#charts)
 - [Colors](#colors)
 - [CSS](#css)
+- [Date/Time](#date-time)
 - [DNS](#dns)
 - [E-Commerce](#e-commerce)
 - [Electron](#electron)
