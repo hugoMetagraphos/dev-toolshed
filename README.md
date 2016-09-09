@@ -102,6 +102,7 @@
 - [Regular Expressions 101](https://regex101.com/ "Online regex tester and debugger")
 
 ## Static Sites
+- [awesome-static-website-services](https://github.com/aharris88/awesome-static-website-services)
 
 ### Forms
 - [Formspree](https://formspree.io/)
