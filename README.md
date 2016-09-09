@@ -12,6 +12,7 @@
 - [Electron](#electron)
 - [Email](#email)
 - [GitHub](#github)
+- [HTTP](#http)
 - [Icons](#icons)
 - [JSON](#json)
 - [Maps](#maps)
@@ -77,6 +78,9 @@
 
 ## GitHub
 - [GitPrint](https://gitprint.com/)
+
+## HTTP
+- [RequestBin](http://requestb.in/ "Collect, inspect and debug HTTP requests and webhooks")
 
 ## Icons
 - [Font Awesome Icons](http://fontawesome.io/icons/)
