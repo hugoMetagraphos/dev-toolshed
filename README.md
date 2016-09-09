@@ -23,6 +23,7 @@
 - [Stock Photos](#stock-photos)
 - [Typography](#typography)
 - [Video](#video)
+- [WordPress](#wordpress)
 
 ## Analytics
 - [App Annie](https://www.appannie.com/)
@@ -138,3 +139,11 @@
 
 ## Video
 - [Plyr](https://plyr.io/ "A simple, accessible HTML5 media player")
+
+## WordPress
+
+### Plugins
+- [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
+- [Ninja Forms](https://wordpress.org/plugins/ninja-forms/)
+- [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
+- [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
