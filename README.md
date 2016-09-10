@@ -11,6 +11,7 @@
 - [E-Commerce](#e-commerce)
 - [Electron](#electron)
 - [Email](#email)
+- [Forms](#forms)
 - [GitHub](#github)
 - [HTTP](#http)
 - [Icons](#icons)
@@ -76,6 +77,9 @@
 
 ### HTML Email
 - [ZURB Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)
+
+## Forms
+* [Select2](http://ivaynberg.github.io/select2/)
 
 ## GitHub
 - [GitPrint](https://gitprint.com/)
