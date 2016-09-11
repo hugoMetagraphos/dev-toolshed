@@ -20,6 +20,7 @@
 - [React](#react)
 - [Regular Expressions](#regular-expressions)
 - [Static Sites](#static-sites)
+- [Security](#security)
 - [Self Hosted](#self-hosted)
 - [Stock Photos](#stock-photos)
 - [Typography](#typography)
@@ -111,6 +112,9 @@
 ## Regular Expressions
 - [RegExr](http://regexr.com/ "Learn, Build, & Test RegEx")
 - [Regular Expressions 101](https://regex101.com/ "Online regex tester and debugger")
+
+## Security
+- [Content Security Policy (CSP) Quick Reference Guide](http://content-security-policy.com/)
 
 ## Static Sites
 - [awesome-static-website-services](https://github.com/aharris88/awesome-static-website-services)
