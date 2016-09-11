@@ -3,6 +3,7 @@
 ## Contents
 - [Analytics](#analytics)
 - [Apps](#apps)
+- [Carousels](#carousels)
 - [Charts](#charts)
 - [Colors](#colors)
 - [CSS](#css)
@@ -34,6 +35,10 @@
 
 ## Apps
 - [The App Launch Guide](http://www.applaunchguide.com/ "The Free and Open Source Guide to Launching Your App")
+
+## Carousels
+* [OWL Carousel](http://owlgraphic.com/owlcarousel/)
+* [slick](http://kenwheeler.github.io/slick/)
 
 ## Charts
 - [Chartspree](http://chartspree.io/)
