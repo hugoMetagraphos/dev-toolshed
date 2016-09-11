@@ -207,4 +207,5 @@
   - Themes
     - [WooThemes](http://www.woothemes.com/product-category/themes/)
     - [Storefront](http://www.woothemes.com/storefront/)
+- [WP Force Lowercase URLs](https://wordpress.org/plugins/wp-force-lowercase-urls/)
 - [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
