@@ -14,6 +14,7 @@
 - [Email](#email)
 - [Forms](#forms)
 - [GitHub](#github)
+- [HTML5](#html5)
 - [HTTP](#http)
 - [Icons](#icons)
 - [JavaScript](#javascript)
@@ -91,6 +92,9 @@
 
 ## GitHub
 - [GitPrint](https://gitprint.com/)
+
+## HTML5
+- [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
 ## HTTP
 - [RequestBin](http://requestb.in/ "Collect, inspect and debug HTTP requests and webhooks")
