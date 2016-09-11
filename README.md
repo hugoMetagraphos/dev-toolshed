@@ -8,6 +8,7 @@
 - [Colors](#colors)
 - [CSS](#css)
 - [Date/Time](#datetime)
+- [Deployment](#deployment)
 - [DNS](#dns)
 - [E-Commerce](#e-commerce)
 - [Electron](#electron)
@@ -66,6 +67,9 @@
   - [moment-range](https://github.com/gf3/moment-range "Fancy date ranges for Moment.js")
   - [moment-weekday-calc](https://github.com/andruhon/moment-weekday-calc)
 - [PickMeUp](https://github.com/nazar-pc/PickMeUp "Really simple, powerful, customizable and lightweight standalone datepicker")
+
+## Deployment
+ - [DPLOY](http://leanmeanfightingmachine.github.io/dploy/)
 
 ## DNS
 - [ViewDNS.info](http://viewdns.info/)
