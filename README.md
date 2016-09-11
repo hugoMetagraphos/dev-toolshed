@@ -151,7 +151,7 @@
 
 ## WordPress
 
-### Plugins
+### [Plugins](https://wordpress.org/plugins/ "WordPress.org Plugin Directory")
 - [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
 - [Ninja Forms](https://wordpress.org/plugins/ninja-forms/)
 - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
