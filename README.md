@@ -38,8 +38,8 @@
 - [The App Launch Guide](http://www.applaunchguide.com/ "The Free and Open Source Guide to Launching Your App")
 
 ## Carousels
-* [OWL Carousel](http://owlgraphic.com/owlcarousel/)
-* [slick](http://kenwheeler.github.io/slick/)
+- [OWL Carousel](http://owlgraphic.com/owlcarousel/)
+- [slick](http://kenwheeler.github.io/slick/)
 
 ## Charts
 - [Chartspree](http://chartspree.io/)
@@ -88,7 +88,7 @@
 - [ZURB Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)
 
 ## Forms
-* [Select2](http://ivaynberg.github.io/select2/)
+- [Select2](http://ivaynberg.github.io/select2/)
 
 ## GitHub
 - [GitPrint](https://gitprint.com/)
