@@ -20,6 +20,7 @@
 - [JavaScript](#javascript)
 - [JSON](#json)
 - [Maps](#maps)
+- [PHP](#php)
 - [React](#react)
 - [Regular Expressions](#regular-expressions)
 - [Static Sites](#static-sites)
@@ -115,6 +116,22 @@
 ## Maps
 - [Google Maps APIs](https://developers.google.com/maps/)
 - [Static Map Maker](http://staticmapmaker.com/)
+
+## PHP
+- [PHP Best Practices](https://phpbestpractices.org/)
+- [PHP: The Right Way](http://www.phptherightway.com/)
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer)
+- Frameworks
+	- [Aura](http://auraphp.com/)
+	- [CakePHP](http://cakephp.org/)
+	- [CodeIgniter](http://www.codeigniter.com/)
+	- [Laravel](http://laravel.com/)
+	- [Lumen](http://lumen.laravel.com/)
+	- [Phalcon](http://phalconphp.com/)
+	- [Slim](http://www.slimframework.com/)
+	- [Symfony](http://symfony.com/)
+	- [Yii](http://www.yiiframework.com/)
+	- [Zend](http://framework.zend.com/)
 
 ## React
 - [react-howto](https://github.com/petehunt/react-howto "Your guide to the (sometimes overwhelming!) React ecosystem.")
