@@ -52,6 +52,7 @@
 - [Flexbox Froggy](http://flexboxfroggy.com/ "A game for learning CSS flexbox")
 
 ## Date/Time
+- [FullCalendar](http://fullcalendar.io/)
 - [Moment.js](http://momentjs.com/ "Parse, validate, manipulate, and display dates in JavaScript")
   - [moment-range](https://github.com/gf3/moment-range "Fancy date ranges for Moment.js")
   - [moment-weekday-calc](https://github.com/andruhon/moment-weekday-calc)
