@@ -15,6 +15,7 @@
 - [GitHub](#github)
 - [HTTP](#http)
 - [Icons](#icons)
+- [JavaScript](#javascript)
 - [JSON](#json)
 - [Maps](#maps)
 - [React](#react)
@@ -94,6 +95,9 @@
 - [GlyphSearch](http://glyphsearch.com/ "Search for icons from Font Awesome, Foundation, Glyphicons, IcoMoon, Ionicons, Material Design, and Octicons")
 - [Ionicons](http://ionicons.com/)
 - [The Noun Project](http://thenounproject.com/)
+
+## JavaScript
+- [ES6 for Humans](https://github.com/metagrover/ES6-for-humans)
 
 ## JSON
 - [JSONLint](http://jsonlint.com/ "The JSON Validator")
