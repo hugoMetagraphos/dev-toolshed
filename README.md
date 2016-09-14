@@ -74,6 +74,7 @@
  - [DPLOY](http://leanmeanfightingmachine.github.io/dploy/)
 
 ## DNS
+- [MxToolbox SuperTool](http://mxtoolbox.com/SuperTool.aspx)
 - [ViewDNS.info](http://viewdns.info/)
 
 ## E-Commerce
