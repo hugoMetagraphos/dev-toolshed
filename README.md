@@ -212,3 +212,6 @@
 - [WP Force Lowercase URLs](https://wordpress.org/plugins/wp-force-lowercase-urls/)
 - [WP Google Analytics Events](https://wordpress.org/plugins/wp-google-analytics-events/)
 - [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
+
+### Settings
+- [WP Settings Generator](http://wpsettingsapi.jeroensormani.com/)
