@@ -15,6 +15,7 @@
 - [Electron](#electron)
 - [Email](#email)
 - [Forms](#forms)
+- [Freelancing](#freelancing)
 - [GitHub](#github)
 - [HTML5](#html5)
 - [HTTP](#http)
@@ -115,6 +116,10 @@
 ## Forms
 
 - [Select2](http://ivaynberg.github.io/select2/)
+
+## Freelancing
+
+- [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer "List of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!")
 
 ## GitHub
 
