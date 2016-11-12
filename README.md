@@ -226,6 +226,7 @@
 - [Google Fonts](https://www.google.com/fonts)
 - [Google Font Explorer](http://katydecorah.com/google-font-explorer/)
 - [Font CDN](http://fontcdn.org/ "FontCDN: A search tool for Google web fonts")
+- [Typography Handbook](http://typographyhandbook.com/)
 
 ## Video
 
