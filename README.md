@@ -44,6 +44,7 @@
 ## Apps
 
 - [The App Launch Guide](http://www.applaunchguide.com/ "The Free and Open Source Guide to Launching Your App")
+- [The App Launch Checklist](https://branch.io/resources/app-launch-checklist/)
 
 ## Carousels
 
