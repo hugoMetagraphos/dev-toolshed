@@ -76,6 +76,7 @@
 
 ## Date/Time
 
+- [date-fns](https://date-fns.org/ "Modern JavaScript date utility library")
 - [FullCalendar](http://fullcalendar.io/)
 - [Moment.js](http://momentjs.com/ "Parse, validate, manipulate, and display dates in JavaScript")
   - [moment-range](https://github.com/gf3/moment-range "Fancy date ranges for Moment.js")
