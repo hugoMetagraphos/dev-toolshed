@@ -3,6 +3,7 @@
 ## Contents
 
 - [Analytics](#analytics)
+- [APIs](#apis)
 - [Apps](#apps)
 - [Carousels](#carousels)
 - [Charts](#charts)
@@ -41,6 +42,10 @@
 
 - [App Annie](https://www.appannie.com/)
 - [Google Analytics](https://www.google.com/analytics/)
+
+## APIs
+
+- [RapidAPI Marketplace](https://rapidapi.com/)
 
 ## Apps
 
