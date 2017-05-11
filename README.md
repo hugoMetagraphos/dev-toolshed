@@ -254,6 +254,7 @@
 
 ## Typography
 
+- [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/)
 - [Google Fonts](https://www.google.com/fonts)
 - [Google Font Explorer](http://katydecorah.com/google-font-explorer/)
 - [Font CDN](http://fontcdn.org/ "FontCDN: A search tool for Google web fonts")
