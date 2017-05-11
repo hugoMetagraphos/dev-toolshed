@@ -28,6 +28,7 @@
 - [React](#react)
 - [React Native](#react-native)
 - [Regular Expressions](#regular-expressions)
+- [RSS](#rss)
 - [Static Sites](#static-sites)
 - [Security](#security)
 - [Self Hosted](#self-hosted)
@@ -193,6 +194,10 @@
 
 - [RegExr](http://regexr.com/ "Learn, Build, & Test RegEx")
 - [Regular Expressions 101](https://regex101.com/ "Online regex tester and debugger")
+
+## RSS
+
+- [ChimpFeedr](http://chimpfeedr.com/ "RSS Feed Aggregator")
 
 ## Security
 
