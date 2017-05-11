@@ -43,6 +43,8 @@
 
 - [App Annie](https://www.appannie.com/)
 - [Google Analytics](https://www.google.com/analytics/)
+  - [analytics.js boilerplate](https://github.com/philipwalton/analyticsjs-boilerplate)
+- [Google Tag Manager](https://www.google.com/analytics/tag-manager/)
 
 ## APIs
 
