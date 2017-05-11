@@ -238,6 +238,7 @@
 
 - [Pexels](https://www.pexels.com/)
 - [Pixabay](https://pixabay.com/)
+- [Stockvault](http://www.stockvault.net/)
 
 ## Typography
 
