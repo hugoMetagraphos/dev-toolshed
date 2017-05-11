@@ -25,6 +25,7 @@
 - [JSON](#json)
 - [Learn](#learn)
 - [Maps](#maps)
+- [Newsletters](#newsletters)
 - [PHP](#php)
 - [React](#react)
 - [React Native](#react-native)
@@ -172,6 +173,11 @@
 - [MapQuest](https://developer.mapquest.com/documentation/)
 - [Static Map Maker](http://staticmapmaker.com/)
 - [Yandex](https://tech.yandex.com/maps/)
+
+## Newsletters
+
+- [Campaign Monitor](https://www.campaignmonitor.com/)
+- [MailChimp](https://mailchimp.com/)
 
 ## PHP
 
