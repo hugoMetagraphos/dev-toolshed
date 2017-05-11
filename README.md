@@ -164,8 +164,14 @@
 
 ## Maps
 
-- [Google Maps APIs](https://developers.google.com/maps/)
+- [Bing](https://www.microsoft.com/maps/)
+- [CartoDB](https://carto.com/docs/carto-engine/maps-api)
+- [Google](https://developers.google.com/maps/)
+- [HERE](https://carto.com/docs/carto-engine/maps-api)
+- [Mapbox](https://www.mapbox.com/api-documentation/)
+- [MapQuest](https://developer.mapquest.com/documentation/)
 - [Static Map Maker](http://staticmapmaker.com/)
+- [Yandex](https://tech.yandex.com/maps/)
 
 ## PHP
 
