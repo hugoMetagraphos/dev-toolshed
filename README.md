@@ -21,6 +21,7 @@
 - [HTML5](#html5)
 - [HTTP](#http)
 - [Icons](#icons)
+- [Images](#images)
 - [JavaScript](#javascript)
 - [JSON](#json)
 - [Learn](#learn)
@@ -150,6 +151,11 @@
 - [GlyphSearch](http://glyphsearch.com/ "Search for icons from Font Awesome, Foundation, Glyphicons, IcoMoon, Ionicons, Material Design, and Octicons")
 - [Ionicons](http://ionicons.com/)
 - [The Noun Project](http://thenounproject.com/)
+
+## Images
+
+- [lorempixel](http://lorempixel.com/)
+- [Placehold.it](http://placehold.it/)
 
 ## JavaScript
 
